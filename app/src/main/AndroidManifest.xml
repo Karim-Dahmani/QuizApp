@@ -15,18 +15,6 @@
             android:name=".Score"
             android:exported="false" />
         <activity
-            android:name=".Quiz5"
-            android:exported="false" />
-        <activity
-            android:name=".Quiz4"
-            android:exported="false" />
-        <activity
-            android:name=".Quiz3"
-            android:exported="false" />
-        <activity
-            android:name=".Quiz2"
-            android:exported="false" />
-        <activity
             android:name=".Quiz1"
             android:exported="false" />
         <activity
