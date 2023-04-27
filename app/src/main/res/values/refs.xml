@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="when_answer_correct">when_answer_correct</drawable>
+    <drawable name="when_answer_wrong">when_answer_wrong</drawable>
+</resources>

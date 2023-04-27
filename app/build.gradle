@@ -3,12 +3,13 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    namespace 'com.example.quizapp_m51'
+    compileSdk 33
 
     defaultConfig {
-        applicationId "com.bousmah.quizapp"
-        minSdk 21
-        targetSdk 31
+        applicationId "com.example.quizapp_m51"
+        minSdk 24
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
